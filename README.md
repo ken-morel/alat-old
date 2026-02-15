@@ -1,5 +1,11 @@
 # Alat: Your Devices, Unified.
 
+> [!NOTE]
+> I am remaking this using a simplier interface, more system integrated approach
+> and simplier project and codebase. That's why the slogan changed from
+> _Your Devices, Unitifed_, to _That one device that's all your devices_.
+>  <https://github.com/ken-morel/alat>
+
 <p align="center">
   <img src="./logo.png" alt="Alat Logo" width="200"/>
 </p>
